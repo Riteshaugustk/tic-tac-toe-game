@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+}
+.container {
+  background-color:tomato;
+  height: 25%;
+  width: 40%;
+  background-position: center;
+  border-radius: 5rem;
+}
+.wrapper {
+  height: 200%;
+  width: 90%;
+  background-position: center;
+  border-radius: 5rem;
+  border: 0.2rem solid whitesmoke;
+}
+.footerPart {
+  background-color:tomato;
+  height: 20%;
+  width: 90%;
+  background-position: center;
+  border-radius: 5rem;
+}
+pre {
+  font-size: 20px;
+}
+#one,
+#two,
+#three,
+#four,
+#five,
+#six,
+#seven,
+#eight,
+#nine {
+  padding: 25px;
+  color: rgb(255, 255, 255);
+  font-size: 1.5em;
+  cursor: pointer;
+  width: 70px;
+  background-color: rgb(31, 128, 103);
+  border: none;
+  outline: none;
+  border-radius: 3px;
+}
+input {
+  background-color: rgba(185, 221, 22, 0.541);
+  padding: 7px;
+  width: 70px;
+}
+marquee {
+  width: 30%;
+  position: center;
+}
